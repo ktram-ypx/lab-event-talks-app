@@ -1,0 +1,11 @@
+# Node.js build artifacts
+dist/
+
+# Node.js dependencies (if any were installed)
+node_modules/
+
+# Build script itself
+build.js
+
+# Environment variables (if any were added)
+.env
